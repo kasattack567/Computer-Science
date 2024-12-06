@@ -9,6 +9,4 @@ integer amounts). Your aim is to feed all of the children the correct amount whi
 making the fewest cuts to the chocolate bars. Return -1 if there is no solution. 
 
 # Task 
-Write a program to distribute chocolate so that you make as few cuts as possible. We 
-are more interested in solutions that get close to the minimum than those that take 
-an exponential amount of time. 
+Write a program to distribute chocolate so that you make as few cuts as possible.
